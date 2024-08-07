@@ -10,6 +10,10 @@ uid: MbgNMS_1.3.0
 
 The Meinberg microSync connector has been integrated into the mbgNMS solution. This connector supports the microSync product family.
 
+Receiver GNM integration
+
+Receiver GNS-UC integration
+
 ## Changes
 
 #### IDP 1.5.0 integration [ID_40058]
